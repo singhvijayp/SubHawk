@@ -91,7 +91,6 @@ Title      : Example API
 ```
 requests
 beautifulsoup4
-tqdm
 ```
 
 ## Tips & Best Practices
